@@ -21,7 +21,7 @@ This is my **first Make scenario**, and I documented the process here as part of
 
 ## 📂 Repository Contents
 - **README.md** → Documentation of the project.  
-- **Google Sheets link** → [👉 Open Sheet Here](https://docs.google.com/spreadsheets/d/YOUR-SHEET-ID/edit?usp=sharing)  
+- **Google Sheets link** → [👉 Open Sheet Here](https://docs.google.com/spreadsheets/d/1hQtGaBBBJWKwh6kfVmYt1pY_ejOcvRQ2v8bZpXuznBE/edit?gid=0#gid=0)  
 - **report/** → PDF or markdown file with screenshots and explanation of each step.  
 - **images/** → Screenshots of the scenario setup in Make (modules, mapping, execution logs).  
 
